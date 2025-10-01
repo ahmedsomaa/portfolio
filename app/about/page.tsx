@@ -17,7 +17,6 @@ import {
 } from "@/components/shared/section";
 
 import ABOUT from "@/content/about";
-import { NextBadge } from "@/components/badges/next";
 import { ReactBadge } from "@/components/badges/react";
 import { TypeScriptBadge } from "@/components/badges/typescript";
 import { TailwindCssBadge } from "@/components/badges/tailwindcss";
