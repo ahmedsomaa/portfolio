@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import { Figtree, Karla, DM_Mono } from "next/font/google";
 
 import "./globals.css";
@@ -10,15 +9,14 @@ import { MaxWidthWrapper } from "@/components/layout/max-width-wrapper";
 import { FreePalestineBanner } from "@/components/banners/free-palestine";
 
 // --------- FONTS ---------
-const fontLogo = DM_Mono({
+const dmMono = DM_Mono({
+  subsets: ["latin"],
   weight: ["300", "400", "500"],
   variable: "--font-logo",
 });
 
-const fontMono = DM_Mono({
-  weight: ["300", "400", "500"],
-  variable: "--font-mono",
-});
+const fontLogo = dmMono;
+const fontMono = dmMono;
 
 const fontDisplay = Figtree({
   subsets: ["latin"],
