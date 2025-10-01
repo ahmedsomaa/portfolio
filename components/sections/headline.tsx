@@ -42,7 +42,7 @@ export function Headline() {
           target="_blank noreferrer"
           href="/docs/ahmed-ismail-resume.pdf"
         >
-          Get my resume
+          Get my CV
         </Link>
       </Button>
     </div>
