@@ -34,7 +34,7 @@ const fontSans = Karla({
 
 // --------- METADATA ---------
 export const metadata: Metadata = {
-  metadataBase: new URL("https://som3aware.vercel.app/"),
+  metadataBase: new URL("https://som3aware.netlify.app/"),
   title: { default: "Som3aware", template: "%s | Som3aware" },
   description: "Crafting elegant products that captivate and delight users ✨",
   keywords: [
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     title: "Som3aware",
     description:
       "Crafting elegant products that captivate and delight users ✨",
-    url: "https://som3aware.vercel.app/",
+    url: "https://som3aware.netlify.app/",
     siteName: "Som3aware",
     locale: "en_US",
     type: "website",

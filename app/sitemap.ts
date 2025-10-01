@@ -3,7 +3,7 @@ import { MetadataRoute } from "next";
 import { allPosts } from "contentlayer/generated";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://som3aware.vercel.app";
+  const baseUrl = "https://som3aware.netlify.app";
 
   const staticRoutes = ["", "/about", "/blog", "/projects"].map((route) => ({
     url: `${baseUrl}${route}`,

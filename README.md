@@ -12,7 +12,7 @@ My personal portfolio built with Next.js 15 & contentlayer.
 - [Shadcn/ui](https://ui.shadcn.com/) for components.
 - [Enhanced version of shadcn-button component](https://enhanced-button.vercel.app/) for better shadcn buttons.
 - [Origin UI](https://originui.com/) for extended shadcn components.
-- [Deployment](https://vercel.com/) for deployment.
+- [Deployment](https://netlify.com/) for deployment.
 
 ## Running Locally
 

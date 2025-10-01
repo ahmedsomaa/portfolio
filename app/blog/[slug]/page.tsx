@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: PostPageProps) {
     openGraph: {
       title: post.title,
       description: post.summary,
-      url: "https://som3aware.vercel.app/blog/" + slug,
+      url: "https://som3aware.netlify.app/blog/" + slug,
       images: [post.cover],
       siteName: "Som3aware",
     },
