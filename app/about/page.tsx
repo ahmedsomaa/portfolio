@@ -30,12 +30,12 @@ export default function AboutPage() {
         <p className="text-base text-justify text-muted-foreground tracking-tight font-normal">
           Hello world! I'm Ahmed Ismail, a Full-Stack Software Engineer based in
           Tanta, Egypt, with a deep passion for front-end development.
-          Currently, I'm working as a founding engineer at{" "}
+          Currently, I'm working as a growth engineer at{" "}
           <Link
-            href="https://reconciled.io"
+            href="https://www.herwin.tech/"
             className="underline decoration-dotted decoration-1 underline-offset-4 text-muted-foreground/90"
           >
-            Reconciled
+            Herwin
           </Link>
           , where I get to blend creativity with technical skills to craft
           beautiful, functional, and intuitive user experiences.

@@ -19,11 +19,11 @@ const ABOUT = {
     {
       id: "1",
       period: { to: "present", from: "Jan, 2024" },
-      company: { name: "Reconciled", url: "https://reconciled.io" },
+      company: { name: "Herwin", url: "https://www.herwin.tech/" },
       role: {
-        title: "Founding Engineer",
+        title: "Growth Engineer",
         description:
-          "Building the first reverse invoice management platform for staffing agencies",
+          "Outsourced to Reconciled where I was building the first reverse invoice management platform for staffing agencies",
       },
     },
     {
