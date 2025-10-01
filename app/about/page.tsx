@@ -43,8 +43,8 @@ export default function AboutPage() {
         </p>
         <p className="text-base text-justify text-muted-foreground tracking-tight font-normal">
           I'm all about creating software that not only works but feels right.
-          My tools of choice are <ReactBadge />, <NextBadge />,{" "}
-          <TypeScriptBadge />, and <TailwindCssBadge />
+          My tools of choice are <ReactBadge />, <TypeScriptBadge />, and{" "}
+          <TailwindCssBadge />
           —technologies that empower me to build fast, responsive, and scalable
           apps. But it doesn't stop there. I'm also passionate about design
           engineering—the intersection of clean, elegant code and user-centric
