@@ -18,11 +18,13 @@ const dmMono = DM_Mono({
 const fontLogo = dmMono;
 const fontMono = dmMono;
 
+// consider Righteous
 const fontDisplay = Figtree({
   subsets: ["latin"],
   variable: "--font-display",
 });
 
+// consider Sora, Sen, Manrope
 const fontSans = Karla({
   subsets: ["latin"],
   variable: "--font-sans",
