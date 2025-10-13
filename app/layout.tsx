@@ -24,7 +24,7 @@ const fontDisplay = Figtree({
   variable: "--font-display",
 });
 
-// consider Sora, Sen, Manrope
+// consider Sora, Sen, Manrope, Tuffy
 const fontSans = Karla({
   subsets: ["latin"],
   variable: "--font-sans",
